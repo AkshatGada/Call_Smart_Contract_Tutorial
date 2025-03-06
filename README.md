@@ -23,10 +23,10 @@ This tutorial demonstrates how to call a deployed smart contract from any Agglay
      ```bash
      npx hardhat compile
      ```
-For deploying to a testnet, update your `hardhat.config.js` with the appropriate network details and run:
-```bash
-npx hardhat run scripts/deploy.js --network <network_name>
-```
+   - For deploying to a testnet, update your `hardhat.config.js` with the appropriate network details and run:
+    ```bash
+    npx hardhat run scripts/deploy.js --network <network_name>
+    ```
 5. **Add Deployed Contract Address**
    - Open `bridge_and_call.js`.
    - Locate the line:
