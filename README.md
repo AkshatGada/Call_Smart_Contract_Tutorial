@@ -6,8 +6,8 @@ This tutorial demonstrates how to call a deployed smart contract from any Agglay
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/AkshatGada/Call_Smart_Contract_Tutorial.git example
+   cd example
    ```
 2. **Install Packages**
    ```bash
